@@ -2,7 +2,7 @@
 ### JAGAN SARAVANA 
 ### Computer Science Engineering Graduate
 
-`Data Analyst` `Digital Marketing` `Front-end Developer` `Web Designer`
+`Data Analyst` `Digital Marketing` `Front-End Developer` `Web Designer`
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagansaravanan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagan_saravana) 
