@@ -5,7 +5,7 @@
 `Data Analyst` `Digital Marketing` `Front-End Developer` `Web Designer`
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagansaravanan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagan_saravana) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagansaravanan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagan_saravana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]((https://medium.com/@jagansaravana27)) 
 
 
 # 💻 Tech Stack:
