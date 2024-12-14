@@ -1,11 +1,11 @@
 # About Me:
 👋 Hi, I’m Jagan Saravana, a Computer Science graduate with a strong focus on data science, data analysis, and web development. I’m passionate about translating data into actionable insights and applying analytical techniques to drive meaningful results.
 
-Alongside my work in data analytics, I bring a creative touch to web development and digital marketing, making data-driven decisions to enhance user experiences and engagement. My projects often reflect my commitment to continuous learning and staying current with the latest in technology and analytics.
+Alongside my work in data analytics, I bring a creative touch to web development and digital marketing, making data-driven decisions to enhance user experiences and engagement. My projects often reflect my commitment to continuous learning and staying current with the latest technology and analytics.
 
 🔗 Let’s connect and collaborate to push the boundaries of tech and data!
 
-`Data Enthusiastic` `Digital Marketer` `Web Developer` `Web Designer`
+`Data Analyst` `Web Developer` `Web Designer` `Digital Marketer`
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagan-saravana-n) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jagansaravana27)
