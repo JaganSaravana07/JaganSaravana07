@@ -5,7 +5,7 @@ Alongside my work in data analytics, I bring a creative touch to web development
 
 🔗 Let’s connect and collaborate to push the boundaries of tech and data!
 
-`Data Analyst` `Business Intelligence` 
+`Data Analyst` `BI Developer` 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagan-saravana-n) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jagansaravana27)
